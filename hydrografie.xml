@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet href="./style/style.xsl" type="text/xsl" media="screen"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
   <id>https://pdok.github.io/ngr-atom-test/hydrografie.xml</id>
   <title type="text" xml:lang="nl">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</title>
