@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet href="./style/style.xsl" type="text/xsl" media="screen"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
-  <id>https://service.pdok.nl/hwh/hydrografie/atom/v1_0/hydrografie.xml</id>
+  <id>https://pdok.github.io/ngr-atom-test/hydrografie.xml</id>
   <title type="text" xml:lang="nl">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</title>
   <subtitle type="text" xml:lang="nl">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</subtitle>
-  <link href="https://service.pdok.nl/hwh/hydrografie/atom/v1_0/hydrografie.xml" rel="self" type="application/atom+xml" title="Dataset Feed" hreflang="nl"/>
-  <link rel="describedby" href="https://www.nationaalgeoregister.nl/geonetwork/srv/dut/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;outputschema=http://www.isotc211.org/2005/gmd&amp;elementsetname=full&amp;id=07575774-57a1-4419-bab4-6c88fdeb02b2" type="text/xml"/>
-  <link href="https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/07575774-57a1-4419-bab4-6c88fdeb02b2" rel="related" type="text/html" hreflang="nl"/>
-  <link href="https://service.pdok.nl/hwh/hydrografie/atom/v1_0/index.xml" rel="up" type="application/atom+xml" title="Top Atom Service Feed" hreflang="nl"/>
+  <link href="https://pdok.github.io/ngr-atom-test/hydrografie.xml" rel="self" type="application/atom+xml" title="Dataset Feed" hreflang="nl"/>
+  <link rel="describedby" href="https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;outputschema=http://www.isotc211.org/2005/gmd&amp;elementsetname=full&amp;id=07575774-57a1-4419-bab4-6c88fdeb02b2" type="text/xml"/>
+  <link href="https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/catalog.search#/metadata/07575774-57a1-4419-bab4-6c88fdeb02b2" rel="related" type="text/html" hreflang="nl"/>
+  <link href="https://pdok.github.io/ngr-atom-test/index.xml" rel="up" type="application/atom+xml" title="Top Atom Service Feed" hreflang="nl"/>
   <author>
     <name>PDOK beheer</name>
     <email>beheerPDOK@kadaster.nl</email>
@@ -15,11 +15,11 @@
   <rights type="text">http://creativecommons.org/publicdomain/zero/1.0/deed.nl</rights>
   <updated>2020-09-15T11:22:27Z</updated>
   <entry>
-    <id>https://service.pdok.nl/hwh/hydrografie/atom/v1_0/downloads/hydrografie.zip</id>
+    <id>https://pdok.github.io/ngr-atom-test/downloads/hydrografie.zip</id>
     <title type="text" xml:lang="nl">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE - Download (EPSG:4258)</title>
     <updated>2020-09-15T11:22:27Z</updated>
-    <link href="https://service.pdok.nl/hwh/hydrografie/atom/v1_0/downloads/hydrografie.zip" title="" rel="alternate" type="application/zip" hreflang="nl" length="713387965"/>
-    <link href="https://service.pdok.nl/hwh/hydrografie/atom/v1_0/downloads/hydrografie.zip" hreflang="nl"/>
+    <link href="https://pdok.github.io/ngr-atom-test/downloads/hydrografie.zip" title="" rel="alternate" type="application/zip" hreflang="nl" length="713387965"/>
+    <link href="https://pdok.github.io/ngr-atom-test/downloads/hydrografie.zip" hreflang="nl"/>
     <category term="http://www.opengis.net/def/crs/EPSG/0/4258" label="ETRS89"/>
     <georss:polygon>50.73 3.3 50.73 7.24 53.6 7.24 53.6 3.3 50.73 3.3</georss:polygon>
   </entry>

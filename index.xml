@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet href="./style/style.xsl" type="text/xsl" media="screen"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0" xmlns:georss="http://www.georss.org/georss">
-  <id>https://service.pdok.nl/hwh/hydrografie/atom/v1_0/index.xml</id>
+  <id>https://pdok.github.io/ngr-atom-test/index.xml</id>
   <title type="text" xml:lang="nl">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</title>
   <subtitle type="text" xml:lang="nl">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</subtitle>
-  <link href="https://www.nationaalgeoregister.nl/geonetwork/opensearch/dut/15c3c30f-0db2-4b3b-80f6-b990c8fc8225/OpenSearchDescription.xml" rel="search" type="application/opensearchdescription+xml" title="Open Search document voor INSPIRE Download service PDOK"/>
-  <link href="https://service.pdok.nl/hwh/hydrografie/atom/v1_0/index.xml" rel="self" type="application/atom+xml" hreflang="nl" title="Service Feed" />
-  <link href="https://www.nationaalgeoregister.nl/geonetwork/srv/dut/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;outputschema=http://www.isotc211.org/2005/gmd&amp;elementsetname=full&amp;id=15c3c30f-0db2-4b3b-80f6-b990c8fc8225" rel="describedby" type="application/xml"/>
-  <link href="https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/15c3c30f-0db2-4b3b-80f6-b990c8fc8225" rel="related" type="text/html" hreflang="nl"/>
+  <link href="https://ngr-2020-acc.geocat.live/geonetwork/opensearch/dut/15c3c30f-0db2-4b3b-80f6-b990c8fc8225/OpenSearchDescription.xml" rel="search" type="application/opensearchdescription+xml" title="Open Search document voor INSPIRE Download service PDOK"/>
+  <link href="https://pdok.github.io/ngr-atom-test/index.xml" rel="self" type="application/atom+xml" hreflang="nl" title="Service Feed" />
+  <link href="https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;outputschema=http://www.isotc211.org/2005/gmd&amp;elementsetname=full&amp;id=15c3c30f-0db2-4b3b-80f6-b990c8fc8225" rel="describedby" type="application/xml"/>
+  <link href="https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/catalog.search#/metadata/15c3c30f-0db2-4b3b-80f6-b990c8fc8225" rel="related" type="text/html" hreflang="nl"/>
   <author>
     <name>PDOK Beheer</name>
     <email>beheerPDOK@kadaster.nl</email>
@@ -15,16 +15,16 @@
   <rights type="text">http://creativecommons.org/publicdomain/zero/1.0/deed.nl</rights>
   <updated>2020-09-15T11:22:27Z</updated>
   <entry>
-    <id>https://service.pdok.nl/hwh/hydrografie/atom/v1_0/hydrografie.xml</id>
+    <id>https://pdok.github.io/ngr-atom-test/hydrografie.xml</id>
     <title type="text" xml:lang="nl">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</title>
     <summary type="text" xml:lang="nl">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</summary>
     <updated>2020-09-15T11:22:27Z</updated>
     <category term="http://www.opengis.net/def/crs/EPSG/0/4258" label="ETRS89"/>
     <georss:polygon>50.73 3.3 50.73 7.24 53.6 7.24 53.6 3.3 50.73 3.3</georss:polygon>
-    <link href="https://www.nationaalgeoregister.nl/geonetwork/srv/dut/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;outputschema=http://www.isotc211.org/2005/gmd&amp;elementsetname=full&amp;id=07575774-57a1-4419-bab4-6c88fdeb02b2" rel="describedby" type="application/xml"/>
-    <link href="https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/07575774-57a1-4419-bab4-6c88fdeb02b2" rel="related" type="text/html" hreflang="nl" />
-    <link href="https://service.pdok.nl/hwh/hydrografie/atom/v1_0/hydrografie.xml" rel="alternate" type="application/atom+xml" hreflang="nl" title=""/>
-    <link href="https://service.pdok.nl/hwh/hydrografie/atom/v1_0/hydrografie.xml" hreflang="nl"/>
+    <link href="https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;outputschema=http://www.isotc211.org/2005/gmd&amp;elementsetname=full&amp;id=07575774-57a1-4419-bab4-6c88fdeb02b2" rel="describedby" type="application/xml"/>
+    <link href="https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/catalog.search#/metadata/07575774-57a1-4419-bab4-6c88fdeb02b2" rel="related" type="text/html" hreflang="nl" />
+    <link href="https://pdok.github.io/ngr-atom-test/hydrografie.xml" rel="alternate" type="application/atom+xml" hreflang="nl" title=""/>
+    <link href="https://pdok.github.io/ngr-atom-test/hydrografie.xml" hreflang="nl"/>
     <inspire_dls:spatial_dataset_identifier_code>4552969d-9c6d-459a-9ca2-1d01f9f08ab4</inspire_dls:spatial_dataset_identifier_code>
     <inspire_dls:spatial_dataset_identifier_namespace>https://www.hetwaterschapshuis.nl</inspire_dls:spatial_dataset_identifier_namespace>
   </entry>
