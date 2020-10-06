@@ -24,7 +24,7 @@
     <link href="https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/catalog.search#/metadata/07575774-57a1-4419-bab4-6c88fdeb02b2" rel="related" type="text/html" hreflang="nl" />
     <link href="https://pdok.github.io/ngr-atom-test/hydrografie.xml" rel="alternate" type="application/atom+xml" hreflang="nl" title=""/>
     <link href="https://pdok.github.io/ngr-atom-test/hydrografie.xml" hreflang="nl"/>
-    <inspire_dls:spatial_dataset_identifier_code>4552969d-9c6d-459a-9ca2-1d01f9f08ab4</inspire_dls:spatial_dataset_identifier_code>
+    <inspire_dls:spatial_dataset_identifier_code>07575774-57a1-4419-bab4-6c88fdeb02b2</inspire_dls:spatial_dataset_identifier_code>
     <inspire_dls:spatial_dataset_identifier_namespace>https://www.hetwaterschapshuis.nl</inspire_dls:spatial_dataset_identifier_namespace>
   </entry>
 </feed>
