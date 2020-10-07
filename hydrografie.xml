@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xml:lang="nl">
   <id>https://pdok.github.io/ngr-atom-test/hydrografie.xml</id>
-  <title type="text" xml:lang="nl">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</title>
-  <subtitle type="text" xml:lang="nl">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</subtitle>
+  <title type="text">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</title>
+  <subtitle type="text">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</subtitle>
   <link href="https://pdok.github.io/ngr-atom-test/hydrografie.xml" rel="self" type="application/atom+xml" title="Dataset Feed" hreflang="nl"/>
   <link rel="related" href="https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;outputschema=http://www.isotc211.org/2005/gmd&amp;elementsetname=full&amp;id=07575774-57a1-4419-bab4-6c88fdeb02b2" type="text/xml"/>
   <link rel="describedby" type="text/html" href="https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/catalog.search#/metadata/07575774-57a1-4419-bab4-6c88fdeb02b2"  hreflang="nl"/>
