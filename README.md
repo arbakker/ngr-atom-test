@@ -1,7 +1,6 @@
 # ngr-atom-test
 
-repository for testing INSPIRE:ATOM services on NGR
-
+Repository for testing harvesting of `INSPIRE Atom` on NGR for OpenSearch.
 
 ## Open Search URLS
 
