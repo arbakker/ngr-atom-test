@@ -2,6 +2,11 @@
 
 Repository for testing harvesting of `INSPIRE Atom` on NGR for OpenSearch.
 
+## Relationships between ATOM service and service and dataset metadata
+
+
+
+
 ## Open Search URLS
 
 ### Parametrized OpenSearch URLS
