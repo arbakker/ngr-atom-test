@@ -9,6 +9,8 @@ This repository contains an example implementation of an INSPIRE Atom download s
 
 For now this implementation uses the [release-acceptance environment](https://ngr-2020-acc.geocat.live/geonetwork) of NGR, since this new release fixes a couple of issues in the INSPIRE Atom harvesting/indexing done by NGR.
 
+## Requirements ATOM serivce harvesting 
+
 For a INSPIRE Atom service to be correctly harvested by NGR it needs to meet 3 requirements:
 
 - service metadata points to service feed URL with protocol "INSPIRE Atom"
