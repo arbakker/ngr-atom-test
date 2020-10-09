@@ -22,6 +22,9 @@ For a INSPIRE Atom service to be correctly harvested by NGR it needs to meet 3 r
 
 ## Open Search URLS
 
+OpenSearchDescription:
+- https://ngr-2020-acc.geocat.live/geonetwork/opensearch/dut/15c3c30f-0db2-4b3b-80f6-b990c8fc8225/OpenSearchDescription.xml"
+
 ### Parametrized OpenSearch URLS
 
 search: 
