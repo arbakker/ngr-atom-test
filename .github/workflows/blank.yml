@@ -19,5 +19,7 @@ jobs:
       - name: Check status of inspire validator
         # Dit zal wel niet werken omdat de service er even over doet om op te starten
         run: |
-          ls $GITHUB_WORKSPACE
+          echo "start sleep"
+          sleep 300
+          echo "wake up"
           curl -X GET --header 'Accept: application/json' 'localhost:8080/validator/v2/status'
