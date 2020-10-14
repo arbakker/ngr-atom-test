@@ -12,6 +12,9 @@ jobs:
     services:
       inspire:
         image: docker.pkg.github.com/inspire-eu-validation/community/inspire-validator:2020.3
+        credentials:
+          username: koalapdok
+          password: ${{ secrets.PDOK_KOALA_PERSONAL_ACCESS_TOKEN }}
         ports: 
           - 8080:8080
     steps:
