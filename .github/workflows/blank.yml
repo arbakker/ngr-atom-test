@@ -19,7 +19,22 @@ jobs:
       - name: Check status of inspire validator
         # Dit zal wel niet werken omdat de service er even over doet om op te starten
         run: |
-          echo "start sleep"
-          sleep 300
-          echo "wake up"
-          curl -X GET --header 'Accept: application/json' 'localhost:8080/validator/v2/status'
+          echo "start"
+          getstate() {
+            curl --fail -X GET --header 'Accept: application/json' 'localhost:8080/validator/v2/status'
+            return $?
+          }
+
+          max_retry=6
+          counter=0
+
+          until getstate
+          do
+             sleep 10
+             [[ counter -eq $max_retry ]] && echo "Could not connect to inspire validation" && exit 1
+             #echo "Trying again. Try #$counter"#use to debug
+             ((counter++))
+          done
+
+          echo "Inspire service is up"
+
