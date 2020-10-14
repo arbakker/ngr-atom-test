@@ -1,4 +1,4 @@
-name: CITest
+name: CI
 
 on:
   push:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     services:
       inspire:
-        image: docker.pkg.github.com/inspire-eu-validation/community/inspire-validator:2020.3
+        image: docker.pkg.github.com/inspire-eu-validation/community/inspire-validator:latest
         credentials:
           username: koalapdok
           password: ${{ secrets.PDOK_KOALA_PERSONAL_ACCESS_TOKEN }}
