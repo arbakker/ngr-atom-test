@@ -34,7 +34,7 @@ jobs:
           until getstate
           do
              sleep 10
-             [[ counter -eq $max_retry ]] && echo "Could not connect to inspire validation" && exit 1
+             [[ counter -eq $max_retry ]] && echo "Could not connect to inspire validation" && exit 2
              #Use to debug
              echo "Trying again. Try #$counter"
              ((counter++))
