@@ -106,7 +106,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Waterschappen Hydrografie INSPIRE ATOM</gco:CharacterString>
+            <gco:CharacterString>Ws Hy INSPIRE ATOM - github.com/pdok/ngr-atom-test</gco:CharacterString>
           </gmd:title>
           <gmd:date>
             <gmd:CI_Date>
@@ -250,7 +250,7 @@
               <gmd:identifier>
                 <gmd:MD_Identifier>
                   <gmd:code>
-                    <gmx:Anchor xlink:href="https://ngr-2020-acc.geocat.live/geonetwork/srv/eng/thesaurus.download?ref=external.theme.httpinspireeceuropaeutheme-theme">geonetwork.thesaurus.external.theme.httpinspireeceuropaeutheme-theme</gmx:Anchor>
+                    <gmx:Anchor xlink:href="https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/srv/eng/thesaurus.download?ref=external.theme.httpinspireeceuropaeutheme-theme">geonetwork.thesaurus.external.theme.httpinspireeceuropaeutheme-theme</gmx:Anchor>
                   </gmd:code>
                 </gmd:MD_Identifier>
               </gmd:identifier>
@@ -331,7 +331,7 @@
           </srv:connectPoint>
         </srv:SV_OperationMetadata>
       </srv:containsOperations>
-      <srv:operatesOn uuidref="07575774-57a1-4419-bab4-6c88fdeb02b2" xlink:href="https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/csw?service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full&amp;id=07575774-57a1-4419-bab4-6c88fdeb02b2#MD_DataIdentification" />
+      <srv:operatesOn uuidref="966ff24d-1eb2-48b2-9780-d549a46dfd6b" xlink:href="https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/srv/dut/csw?service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full&amp;id=bc8bdc2c-319d-4809-bc4a-0d8cef547bf4#MD_DataIdentification" />
     </srv:SV_ServiceIdentification>
   </gmd:identificationInfo>
   <gmd:distributionInfo>
