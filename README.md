@@ -30,7 +30,7 @@ OpenSearchDescription:
 With the paramaters from the `Query` element in the [OpenSearchDescription](https://ngr-2020-acc.geocat.live/geonetwork/opensearch/dut/15c3c30f-0db2-4b3b-80f6-b990c8fc8225/OpenSearchDescription.xml) the OpenSearch search and download request will be parametrized like this (which will result in HTTP 500 response atm):
 
 search: 
-- https://ngr-2020-acc.geocat.live/geonetwork/opensearch/dut/describe?spatial_dataset_identifier_code=07575774-57a1-4419-bab4-6c88fdeb02b2&spatial_dataset_identifier_namespace=&language=nl
+- https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/opensearch/dut/describe?spatial_dataset_identifier_code=07575774-57a1-4419-bab4-6c88fdeb02b2&spatial_dataset_identifier_namespace=https://www.hetwaterschapshuis.nl&language=nl
 
 download:
-- https://ngr-2020-acc.geocat.live/geonetwork/opensearch/dut/download?spatial_dataset_identifier_code=07575774-57a1-4419-bab4-6c88fdeb02b2&spatial_dataset_identifier_namespace=&language=nl&crs=http://www.opengis.net/def/crs/EPSG/0/4258
+- https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/opensearch/dut/download?spatial_dataset_identifier_code=07575774-57a1-4419-bab4-6c88fdeb02b2&spatial_dataset_identifier_namespace=https://www.hetwaterschapshuis.nl&language=nl&crs=http://www.opengis.net/def/crs/EPSG/0/4258
