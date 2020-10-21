@@ -20,6 +20,10 @@ For a INSPIRE Atom service to be correctly harvested by NGR it needs to meet 3 r
 ![relationships between ATOM service and metadata](images/relationships.JPG)
 
 
+## Atom Harvesting NGR
+
+In order for NGR to populate the opensearch service with ATOM service it needs to harvest/index the ATOM service records. This is a process that is run periodically each night on the NGR production and acceptance instances. Initation of the ATOM harvesting/indexing can also be triggered from the NGR admin interface. Go to "Admin" > "Instellingen" and search for "atom".
+
 ## Open Search URLS
 
 OpenSearchDescription:
