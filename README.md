@@ -1,6 +1,6 @@
 # ngr-atom-test
 
-This repository contains an example implementation of an INSPIRE Atom download service and the associated metadata, to test the OpenSearch implementation on NGR. This repo contains:
+This repository contains an example implementation of an INSPIRE Atom download service and the associated metadata, to test the OpenSearch implementation on NGR. Github pages is used to serve out this INSPIRE Atom download service (using the master branch). This repo contains:
 
 - [ATOM service feed](https://pdok.github.io/ngr-atom-test/index.xml)
 - [ATOM dataset feed](https://pdok.github.io/ngr-atom-test/hydrografie.xml)
