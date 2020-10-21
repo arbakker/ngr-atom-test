@@ -4,10 +4,10 @@ This repository contains an example implementation of an INSPIRE Atom download s
 
 - [ATOM service feed](https://pdok.github.io/ngr-atom-test/index.xml)
 - [ATOM dataset feed](https://pdok.github.io/ngr-atom-test/hydrografie.xml)
-- [service metadata](https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/csw?service=CSW&version=2.0.2&request=GetRecordById&outputschema=http://www.isotc211.org/2005/gmd&elementsetname=full&id=15c3c30f-0db2-4b3b-80f6-b990c8fc8225) (also available in [repo](metadata/15c3c30f-0db2-4b3b-80f6-b990c8fc8225.xml) in case metadata in catalog changes)
-- [dataset metadata](https://ngr-2020-acc.geocat.live/geonetwork/srv/dut/csw?service=CSW&version=2.0.2&request=GetRecordById&outputschema=http://www.isotc211.org/2005/gmd&elementsetname=full&id=07575774-57a1-4419-bab4-6c88fdeb02b2) (also available in [repo](metadata/07575774-57a1-4419-bab4-6c88fdeb02b2.xml) in case metadata in catalog changes)
+- [service metadata](https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/srv/dut/csw?service=CSW&version=2.0.2&request=GetRecordById&outputschema=http://www.isotc211.org/2005/gmd&elementsetname=full&id=628a60c8-76a4-483f-ad2b-2e6d32f53cd2) (also available in [repo](metadata/628a60c8-76a4-483f-ad2b-2e6d32f53cd2.xml) in case metadata in catalog changes)
+- [dataset metadata](https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/srv/dut/csw?service=CSW&version=2.0.2&request=GetRecordById&outputschema=http://www.isotc211.org/2005/gmd&elementsetname=full&id=628a60c8-76a4-483f-ad2b-2e6d32f53cd2) (also available in [repo](metadata/628a60c8-76a4-483f-ad2b-2e6d32f53cd2.xml) in case metadata in catalog changes)
 
-For now this implementation uses the [release-acceptance environment](https://ngr-2020-acc.geocat.live/geonetwork) of NGR, since this new release fixes a couple of issues in the INSPIRE Atom harvesting/indexing done by NGR.
+This implementation uses the [NGR acceptatie environment](https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork).
 
 ## Requirements ATOM service harvesting 
 
