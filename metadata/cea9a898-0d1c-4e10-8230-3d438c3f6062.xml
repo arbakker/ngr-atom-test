@@ -106,7 +106,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Ws Hy INSPIRE ATOM - github.com/pdok/ngr-atom-test</gco:CharacterString>
+            <gco:CharacterString>Ws Hy INSPIRE ATOM - github.com/arbakker/ngr-atom-test</gco:CharacterString>
           </gmd:title>
           <gmd:date>
             <gmd:CI_Date>
@@ -325,7 +325,7 @@
           <srv:connectPoint>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://pdok.github.io/ngr-atom-test/index.xml</gmd:URL>
+                <gmd:URL>https://arbakker.github.io/ngr-atom-test/index.xml</gmd:URL>
               </gmd:linkage>
             </gmd:CI_OnlineResource>
           </srv:connectPoint>
@@ -341,7 +341,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://pdok.github.io/ngr-atom-test/index.xml</gmd:URL>
+                <gmd:URL>https://arbakker.github.io/ngr-atom-test/index.xml</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gmx:Anchor xlink:href="https://tools.ietf.org/html/rfc4287">INSPIRE Atom</gmx:Anchor>
@@ -436,5 +436,3 @@
     </gmd:DQ_DataQuality>
   </gmd:dataQualityInfo>
 </gmd:MD_Metadata>
-
-
