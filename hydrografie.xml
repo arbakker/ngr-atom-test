@@ -4,8 +4,8 @@
   <title type="text">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</title>
   <subtitle type="text">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</subtitle>
   <link href="https://arbakker.github.io/ngr-atom-test/hydrografie.xml" rel="self" type="application/atom+xml" title="Dataset Feed" hreflang="nl"/>
-  <link rel="related" href="https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/srv/dut/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;outputschema=http://www.isotc211.org/2005/gmd&amp;elementsetname=full&amp;id=bc8bdc2c-319d-4809-bc4a-0d8cef547bf4" type="text/xml"/>
-  <link rel="describedby" type="text/html" href="https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/bc8bdc2c-319d-4809-bc4a-0d8cef547bf4"  hreflang="nl"/>
+  <link rel="related" href="https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/srv/dut/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;outputschema=http://www.isotc211.org/2005/gmd&amp;elementsetname=full&amp;id=1795753d-f610-4228-845a-0794297cf536" type="text/xml"/>
+  <link rel="describedby" type="text/html" href="https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/1795753d-f610-4228-845a-0794297cf536"  hreflang="nl"/>
   <link href="https://arbakker.github.io/ngr-atom-test/index.xml" rel="up" type="application/atom+xml" title="Top Atom Service Feed" hreflang="nl"/>
   <author>
     <name>PDOK beheer</name>
