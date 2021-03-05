@@ -331,6 +331,7 @@
           </srv:connectPoint>
         </srv:SV_OperationMetadata>
       </srv:containsOperations>
+      <srv:operatesOn uuidref="2caae4e4-43bb-4320-8770-bad12c224597" xlink:href="https://ngr.acceptatie.nationaalgeoregister.nl/geonetwork/srv/dut/csw?service=CSW&amp;request=GetRecordById&amp;version=2.0.2&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full&amp;id=1795753d-f610-4228-845a-0794297cf536#MD_DataIdentification" />
     </srv:SV_ServiceIdentification>
   </gmd:identificationInfo>
   <gmd:distributionInfo>
