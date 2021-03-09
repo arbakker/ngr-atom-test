@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0" xmlns:georss="http://www.georss.org/georss" xml:lang="nl">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0" xmlns:georss="http://www.georss.org/georss">
   <id>https://arbakker.github.io/ngr-atom-test/index.xml</id>
   <title type="text">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</title>
   <subtitle type="text">INSPIRE Download Service van Waterschappen Hydrografie INSPIRE</subtitle>
